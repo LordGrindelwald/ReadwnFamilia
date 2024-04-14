@@ -9,7 +9,7 @@
     {
       "name": "ReadWN",
       "fileName": "ReadWN",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/Readwn.png",
       "id": 1308639964,
       "lang": "en",
       "ver": "1.1.4",
@@ -19,7 +19,7 @@
     {
       "name": "LightNovelMeta",
       "fileName": "LightNovelMeta",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/LightNovelmeta.png",
       "id": 1308639965,
       "lang": "en",
       "ver": "1.0.4",
@@ -59,7 +59,7 @@
     {
       "name": "FanNovel",
       "fileName": "FanNovel",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/FanNovel.png",
       "id": 1308639969,
       "lang": "en",
       "ver": "1.0.1",
@@ -79,7 +79,7 @@
     {
       "name": "FansMTL",
       "fileName": "FansMTL",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/FansMTL.png",
       "id": 1308639971,
       "lang": "en",
       "ver": "1.0.0",
@@ -89,7 +89,7 @@
     {
       "name": "WuxiaFox",
       "fileName": "WuxiaFox",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/wuxiafox.png",
       "id": 1308639972,
       "lang": "en",
       "ver": "1.0.0",
@@ -99,7 +99,7 @@
     {
       "name": "LtNovel",
       "fileName": "LtNovel",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/LTNovel.png",
       "id": 1308639973,
       "lang": "en",
       "ver": "1.0.0",
@@ -109,7 +109,7 @@
     {
       "name": "WuxiaOne",
       "fileName": "WuxiaOne",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/wuxiafox.png",
       "id": 1308639974,
       "lang": "en",
       "ver": "1.0.0",
