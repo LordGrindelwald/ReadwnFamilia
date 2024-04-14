@@ -9,7 +9,7 @@
     {
       "name": "ReadWN",
       "fileName": "ReadWN",
-      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/Readwn.png",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/ReadWN.png",
       "id": 1308639964,
       "lang": "en",
       "ver": "1.1.4",
@@ -19,7 +19,7 @@
     {
       "name": "LightNovelMeta",
       "fileName": "LightNovelMeta",
-      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/LightNovelmeta.png",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/LightnoveMeta.png",
       "id": 1308639965,
       "lang": "en",
       "ver": "1.0.4",
@@ -89,7 +89,7 @@
     {
       "name": "WuxiaFox",
       "fileName": "WuxiaFox",
-      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/wuxiafox.png",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/WuxiaFox.png",
       "id": 1308639972,
       "lang": "en",
       "ver": "1.0.0",
@@ -109,7 +109,7 @@
     {
       "name": "WuxiaOne",
       "fileName": "WuxiaOne",
-      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/wuxiafox.png",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/WuxiaFox.png",
       "id": 1308639974,
       "lang": "en",
       "ver": "1.0.0",
@@ -119,7 +119,7 @@
     {
       "name": "WuxiaBox",
       "fileName": "WuxiaBox",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/ReadWN.png",
       "id": 1308639975,
       "lang": "en",
       "ver": "1.0.0",
@@ -129,7 +129,7 @@
     {
       "name": "WuxiaMate",
       "fileName": "WuxiaMate",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/Wuxiamate.png",
       "id": 1308639976,
       "lang": "en",
       "ver": "1.0.0",
