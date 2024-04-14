@@ -1,0 +1,140 @@
+{
+  "libraries": [
+    {
+      "name": "ReadWN",
+      "ver": "1.0.11"
+    }
+  ],
+  "scripts": [
+    {
+      "name": "ReadWN",
+      "fileName": "ReadWN",
+      "imageURL": "",
+      "id": 1308639964,
+      "lang": "en",
+      "ver": "1.1.4",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "LightNovelMeta",
+      "fileName": "LightNovelMeta",
+      "imageURL": "",
+      "id": 1308639965,
+      "lang": "en",
+      "ver": "1.0.4",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "ArchiveOfOurOwn",
+      "fileName": "ArchiveOfOurOwn",
+      "imageURL": "",
+      "id": 1308639966,
+      "lang": "all",
+      "ver": "1.0.5",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Hentai Foundry",
+      "fileName": "HentaiFoundry",
+      "imageURL": "",
+      "id": 1308639967,
+      "lang": "all",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Wuxiap",
+      "fileName": "Wuxiap",
+      "imageURL": "",
+      "id": 1308639968,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "FanNovel",
+      "fileName": "FanNovel",
+      "imageURL": "",
+      "id": 1308639969,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Literotica",
+      "fileName": "Literotica",
+      "imageURL": "",
+      "id": 1308639970,
+      "lang": "all",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "FansMTL",
+      "fileName": "FansMTL",
+      "imageURL": "",
+      "id": 1308639971,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "WuxiaFox",
+      "fileName": "WuxiaFox",
+      "imageURL": "",
+      "id": 1308639972,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "LtNovel",
+      "fileName": "LtNovel",
+      "imageURL": "",
+      "id": 1308639973,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "WuxiaOne",
+      "fileName": "WuxiaOne",
+      "imageURL": "",
+      "id": 1308639974,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "WuxiaBox",
+      "fileName": "WuxiaBox",
+      "imageURL": "",
+      "id": 1308639975,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "WuxiaMate",
+      "fileName": "WuxiaMate",
+      "imageURL": "",
+      "id": 1308639976,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    }
+  ]
+}
