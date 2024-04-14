@@ -7,7 +7,7 @@
   ],
   "scripts": [
     {
-      "name": "ReadWN",
+      "name": "ReadWN™",
       "fileName": "ReadWN",
       "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/ReadWN.png",
       "id": 1308639964,
@@ -57,7 +57,7 @@
       "md5": ""
     },
     {
-      "name": "FanNovel",
+      "name": "FanNovel™",
       "fileName": "FanNovel",
       "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/FanNovel.png",
       "id": 1308639969,
@@ -77,7 +77,7 @@
       "md5": ""
     },
     {
-      "name": "FansMTL",
+      "name": "FansMTL™",
       "fileName": "FansMTL",
       "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/FansMTL.png",
       "id": 1308639971,
@@ -97,7 +97,7 @@
       "md5": ""
     },
     {
-      "name": "LtNovel",
+      "name": "LtNovel™",
       "fileName": "LtNovel",
       "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/LTNovel.png",
       "id": 1308639973,
